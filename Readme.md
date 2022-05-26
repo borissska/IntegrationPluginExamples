@@ -1,2 +1,4 @@
-# Integration plugins
+# Visualizer plugin example
+
+
 
